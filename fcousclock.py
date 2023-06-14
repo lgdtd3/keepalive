@@ -8,7 +8,7 @@ def countdown(t):
         time.sleep(1)
         t -= 1
 
-    print('时间到！')
+    print('时间到了')
 
 if __name__ == '__main__':
     countdown(25 * 60) # 专注时长为25分钟
