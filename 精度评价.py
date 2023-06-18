@@ -2,7 +2,7 @@ import numpy as np
 import os
 import cv2
 from tqdm import trange
-
+//sb 李俊我草泥马
 
 def para_cal(pre, gt, thread):
     pre_flag = pre > 255 * thread
