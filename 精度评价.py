@@ -3,7 +3,8 @@ import os
 import cv2
 from tqdm import trange
 //sb 李俊我草泥马
-
+//评价你妈的臭逼
+//傻逼玩意
 def para_cal(pre, gt, thread):
     pre_flag = pre > 255 * thread
     gt_flag = gt == 255
