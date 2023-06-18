@@ -12,6 +12,8 @@ import glob
 from data_loader import RandomCrop, ToTensorLab, RescaleT, SalObjDataset
 from unet import UNet
 import time
+//训练尼玛得臭屁
+//草泥马
 
 # -------1. define loss function --------
 bce_loss = nn.BCELoss(reduction='mean')
